@@ -44,7 +44,7 @@ $active_record = TRUE;
 //localhost
 $db['default']['username'] = 'root';//'root';
 $db['default']['password'] = '';//'password';
-$db['default']['database'] = 'intranet';
+$db['default']['database'] = 'bookings';
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['dbdriver'] = 'mysql';
